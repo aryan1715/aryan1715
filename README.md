@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan1715/aryan1715/main/me.jpg" width="160" style="border-radius:50%;">
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aryan1715/aryan1715/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan1715/aryan1715/main/light.svg">
